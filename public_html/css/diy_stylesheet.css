@@ -26,3 +26,9 @@ nav li a {
 nav li a:hover {
   background-color: #660E0E;
 }
+
+h1 {
+    text-align: center;
+    font-size: 18px;
+    font-family: comic sans;
+}
