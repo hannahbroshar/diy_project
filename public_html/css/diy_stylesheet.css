@@ -8,7 +8,8 @@ nav ul {
   padding: 0;
   overflow: hidden;
   background-color: #8C1515;
-  font-family: arial,sans-serif;
+  font-family: Impact, sans-serif;
+  font-size: 20px;
 }
 
 nav li {
@@ -30,5 +31,44 @@ nav li a:hover {
 h1 {
     text-align: center;
     font-size: 18px;
-    font-family: comic sans;
+    font-family: Geneva, sans-serif;
+    color: #B55555;
 }
+
+#expect {
+    font-size: 14px;
+    font-family: Arial, sans-serif;
+}
+
+#table_title {
+    text-align: center;
+    font-size: 18px;
+    font-family: Geneva, sans-serif;
+    font-weight: bold;
+    color: #B55555;
+}
+
+table {
+    text-align: center;
+    font-family: Arial, sans-serif;
+    border-style: solid;
+    border-width: 3px;
+    border-radius: 5px;
+    margin: 5px;
+    padding: 5px;
+    background-color: #F2ECBB;
+}
+
+img {
+    border-style: solid;
+    border-width: 3px;
+    border-radius: 3px;
+    margin: 8px;
+}
+
+.ideas {
+    font-size: 16px;
+    font-family: Geneva, sans-serif;
+    font-weight: bold;
+}
+
