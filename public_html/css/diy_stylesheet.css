@@ -10,6 +10,9 @@ nav ul {
   background-color: #8C1515;
   font-family: Impact, sans-serif;
   font-size: 20px;
+  background-image: url("https://cdn.discordapp.com/attachments/254809289015820288/492372749436715040/party_guy.png");
+  background-repeat: no-repeat;
+  background-position: right;
 }
 
 nav li {
@@ -36,8 +39,12 @@ h1 {
 }
 
 #expect {
-    font-size: 14px;
+    font-size: 16px;
     font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 20px;
+    margin-left: 400px;
+    margin-right: 400px;
 }
 
 #table_title {
@@ -48,7 +55,7 @@ h1 {
     color: #B55555;
 }
 
-table {
+table, td {
     text-align: center;
     font-family: Arial, sans-serif;
     border-style: solid;
@@ -59,7 +66,7 @@ table {
     background-color: #F2ECBB;
 }
 
-img {
+.img {
     border-style: solid;
     border-width: 3px;
     border-radius: 3px;
@@ -72,3 +79,6 @@ img {
     font-weight: bold;
 }
 
+#balloons {
+    margin-left: 40%
+}
