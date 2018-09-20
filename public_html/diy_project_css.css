@@ -1,13 +1,29 @@
 body{
 	background: #FCFFF5
 }
-header{
+.page_header{
 	background-color: #22556E;
 	color: #94CFC9;
 	font-family: Georgia, Palatino, serif;
 	font-size: 20px;
 	height: 100px;
 	padding: 5px;
+}
+
+.first_heading{
+	color:#4799B7;
+	font-family:Georgia, Palatino, serif;
+	font-size:32px;
+	border-style: groove;
+	border-color: #22556E;
+	padding: 5px;
+
+}
+
+h2{
+	color:#4799B7;
+	font-family:Georgia, serif;
+	font-size:24px;
 }
 table{
 	border-collapse: collapse;
@@ -47,4 +63,9 @@ nav li a {
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
+}
+
+#instructions {
+	font-size:20px;
+	font-family:Comic Sans MS, Times, sans-serif;
 }
